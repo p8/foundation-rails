@@ -2,7 +2,7 @@
   "name": "foundation-rails",
   "version": "6.6.1.0",
   "dependencies": {
-    "foundation-sites": "6.6.1",
+    "foundation-sites": "git@github.com:foundation/foundation-sites.git#develop",
     "motion-ui": "2.0.3"
   }
 }
